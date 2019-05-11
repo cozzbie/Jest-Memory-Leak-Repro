@@ -7,6 +7,8 @@
  * Created by Jamie Corkhill on 04/24/2019
  */
 
+require('./db/mongoose')();
+
 const app = require('./app');
 
 // Set the port dynamically;

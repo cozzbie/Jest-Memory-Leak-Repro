@@ -6,7 +6,6 @@
  * 
  * Created by Jamie Corkhill on 04/23/2019
  */
-require('./db/mongoose');
 
 const express = require('express');
 const cors = require('cors');
